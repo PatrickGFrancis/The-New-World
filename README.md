@@ -3,4 +3,4 @@ Skeba Assignment CMPINF 0010
 
 Welcome to the New World. 
 
-Kevin Dong, NAME, and NAME's Sacred Domain. 
+Kevin Dong, Patrick Francis, and NAME's Sacred Domain. 
